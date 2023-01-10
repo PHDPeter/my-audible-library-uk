@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A strange and weird adventure, laid in modern America with the flavor of the 19th century. The story of a businessman who was almost too honest, who found a method of paying a long-standing debt of honor, although 30 years in his grave. </p>"; 
